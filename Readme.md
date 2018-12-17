@@ -28,4 +28,4 @@ Basically used some starter files provided with this project, modify them and th
 
 ## ERD for Mani's Magazines Database
 
-![ERD](https://github.com/pachisiya123/Mani-s-Magazine/blob/master/ERD.jpg)
+![](https://github.com/pachisiya123/Mani-s-Magazine/blob/master/ERD.jpg)
