@@ -25,3 +25,7 @@ Also use linear regression technique was used to detect any linear patterns in o
 In this phase we designing and implementing a Web application that collects data and performs data analytics on an MS Access database file that is associated with perhaps one new tables.
 
 Basically used some starter files provided with this project, modify them and then perform various data analytical routines on the table data.
+
+## ERD for Mani's Magazines Database
+
+![ERD](https://github.com/pachisiya123/Mani-s-Magazine/blob/master/ERD.jpg)
